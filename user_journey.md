@@ -2,6 +2,12 @@
 
 1. After purchasing the course, retrieve the login details sent to your email.
 
- ![1](https://github.com/StrangeJay/Qurate-Guides/assets/105195327/64d49a67-77af-42ea-9f14-1dc858bc2185)
+![](img/1.png)
 
-2. 
+2. Visit https://quratehq.com and click on the Login➀ button.
+
+![](img/2.png)
+
+3. Enter your Username➁ and Password➂, select the Remember Me➃ option, and click the Log in➄ button.
+
+![](img/3.png)
